@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oskarpulczynski
+- 👀 I’m interested in learning front-end technologies
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: o.pulczynski@gmail.com
